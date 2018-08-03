@@ -1,0 +1,10 @@
+D:\8th semester\fiver\currentTask\Task\Task\bin\Debug\Task.exe.config
+D:\8th semester\fiver\currentTask\Task\Task\bin\Debug\Task.exe
+D:\8th semester\fiver\currentTask\Task\Task\bin\Debug\Task.pdb
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.csprojResolveAssemblyReference.cache
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.Form1.resources
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.Properties.Resources.resources
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.csproj.GenerateResource.Cache
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.exe
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.pdb
+D:\8th semester\fiver\currentTask\Task\Task\obj\Debug\Task.csproj.ResolveComReference.cache
